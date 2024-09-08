@@ -9,7 +9,7 @@ Road accidents remain a major concern worldwide, leading to significant social, 
 ## Data Sources
 
 - Road Accident Dataset used for this project.
-  - [Road Accident Data](https://docs.google.com/spreadsheets/d/1EI5tsC767-Dd5XLHN2dq3eH-lmUgnBw2/edit?usp=share_link&ouid=114525874149762541616&rtpof=true&sd=true)
+  - [Road Accident Data](https://www.kaggle.com/datasets/devansodariya/road-accident-united-kingdom-uk-dataset)
  
 ## Tools Used
 - Excel - Data Cleaning, Data Analysis and Dashboard creation
